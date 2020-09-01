@@ -1,0 +1,23 @@
+This is my first mockup which follows the class from Udemy with Diannel
+
+
+Things that I've learned:
+
+the size for a web normally is 1366
+use it as layout to track the components are in the frame
+ 
+
+viewpoint height is about 768
+
+
+the websites that can find incos:
+iconfinder
+Material Design
+
+
+learn how to use Adobe XD at 
+https://letsxd.com/?promoid=8WLD53GJ&mv=other
+
+
+
+shortcuts;
